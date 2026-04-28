@@ -108,7 +108,7 @@ CPD_VERSION | CPD version for on-prem deployments (e.g., `5.1`)
 **For Cloud Deployment**
 MODEL_RUNTIME | Deployment environment type (`cloud`)  
 WML_URL | WML Instance URL  [IBM WML API Reference](https://cloud.ibm.com/apidocs/machine-learning)               |
-**For AIOptimizer Inference Server**
+**For AI Optimizer Inference Server**
 MODEL_RUNTIME | Deployment environment type (`openai_protocol`)
 LLM_BASE_URL | URL of the hosted model endpoint
 LLM_API_KEY | API key for authenticating with the service
